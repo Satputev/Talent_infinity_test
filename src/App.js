@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Tree from "./Tree";
+import Tree from "./components/Tree";
 
 function App() {
   const oData = {
